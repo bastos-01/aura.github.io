@@ -307,8 +307,9 @@ a:focus {
 
 .center-block {
   display: block;
-  margin-left: auto;
+  margin-left: 50px;
   margin-right: auto;
+  margin-bottom: 100px;
   animation: rotation 8s infinite linear;
 
 }
