@@ -392,7 +392,7 @@ a:focus {
 }
 
 .service_section .box .img-1 {
-  width: 30%;
+  width: 100%;
 }
 
 .service_section .box:hover .img-1 {
@@ -400,7 +400,7 @@ a:focus {
 }
 
 .service_section .box:hover .img-2 {
-  width: 40%;
+  width: 110%;
   display: inline-block;
 }
 
@@ -979,9 +979,7 @@ a:focus {
 
 
 
-.infos_section p {
-  margin-top: 45px;
-}
+
 
 .infos_section .img-box img {
   width: 75%;
